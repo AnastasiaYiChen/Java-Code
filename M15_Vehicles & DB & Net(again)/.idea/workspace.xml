@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c2b5b44-c539-4641-9b74-fb43df6ce2d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RQH9RG30txEdKtS9aENx3NXyum" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569434673638" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40968585" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.lwjglb.engine.items" />
+      <recent name="vehicle" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ns\w0443276\PROG2200\Game_03\src\main\resources\models" />
+      <recent name="C:\git\PROG1400\Idea_WS\Game_02\src\main\resources\models\russ" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vehicle" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ns\w0443276\PROG2200\M14_Vehicles &amp; DB &amp; Net\src\main\java\server" />
+      <recent name="C:\ns\w0443276\PROG2200\M14_Vehicles &amp; DB &amp; Net\src\main\java\client" />
+      <recent name="C:\ns\w0443276\PROG2200\M14_Vehicles &amp; DB &amp; Net\src\main\java" />
+      <recent name="C:\ns\w0443276\PROG2200\M14_Vehicles &amp; DB &amp; Net\src\main\java\org\lwjglb" />
+      <recent name="C:\ns\w0443276\PROG2200\M14_Vehicles &amp; DB &amp; Net\src\main\java\org\lwjglb\game" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.lwjglb.game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.game.Main" />
+      <module name="M15_Vehicles &amp; DB &amp; Net(again)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.game.Main" />
+      <module name="M15_Vehicles &amp; DB &amp; Net(again)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vehicle.Main" />
+      <module name="Game_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.game.Main" />
+      <module name="Game_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lwjglb.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="M15_Vehicles &amp; DB &amp; Net(again)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandVehicleTest.doesItCollide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="russgl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit" />
+      <option name="MAIN_CLASS_NAME" value="junit.LandVehicleTest" />
+      <option name="METHOD_NAME" value="doesItCollide" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.LandVehicleTest.doesItCollide" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c2b5b44-c539-4641-9b74-fb43df6ce2d1" name="Default Changelist" comment="" />
+      <created>1544397658987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544397658987</updated>
+      <workItem from="1569592249645" duration="707000" />
+      <workItem from="1569594246809" duration="846000" />
+      <workItem from="1569607338123" duration="22000" />
+      <workItem from="1570034238388" duration="2129000" />
+      <workItem from="1570102006367" duration="5339000" />
+      <workItem from="1570195324892" duration="29000" />
+      <workItem from="1599844094625" duration="80000" />
+      <workItem from="1601401134387" duration="4192000" />
+      <workItem from="1601405374653" duration="935000" />
+      <workItem from="1604626348551" duration="8547000" />
+      <workItem from="1604636599909" duration="27000" />
+      <workItem from="1604636795075" duration="96000" />
+      <workItem from="1604792403908" duration="15000" />
+      <workItem from="1604795195752" duration="5666000" />
+      <workItem from="1604801041639" duration="183000" />
+      <workItem from="1606056745300" duration="7106000" />
+      <workItem from="1606065227994" duration="1307000" />
+      <workItem from="1606074803014" duration="4877000" />
+      <workItem from="1606402286982" duration="11000" />
+      <workItem from="1607537497907" duration="108000" />
+      <workItem from="1607537624456" duration="3370000" />
+      <workItem from="1607647072482" duration="13127000" />
+      <workItem from="1607717775916" duration="1667000" />
+      <workItem from="1607720132469" duration="2804000" />
+      <workItem from="1607749358111" duration="1562000" />
+      <workItem from="1608160756132" duration="716000" />
+      <workItem from="1608161601449" duration="9009000" />
+      <workItem from="1608561699216" duration="26204000" />
+      <workItem from="1608625956129" duration="4986000" />
+      <workItem from="1610974592592" duration="12178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1606074820883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1606074820883" />
+    <state x="726" y="0" width="1035" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610974734509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2227" y="220" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.170.1440.860/-1080.-851.1080.1880@1920.170.1440.860" timestamp="1603909992510" />
+    <state x="726" y="0" width="1035" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610974734509" />
+    <state x="569" y="539" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610974724365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="539" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610974724365" />
+    <state x="960" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608571381492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="960" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608571381492" />
+    <state x="715" y="223" key="#xdebugger.evaluate" timestamp="1608577650574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="223" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1608577650574" />
+    <state x="731" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610995888027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2468" y="339" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.170.1440.860/-1080.-851.1080.1880@1920.170.1440.860" timestamp="1603901383686" />
+    <state x="731" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1610995888027" />
+    <state width="856" height="616" key="DebuggerActiveHint" timestamp="1608578064600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="856" height="616" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1608578064600" />
+    <state x="1001" y="308" key="FileChooserDialogImpl" timestamp="1610993799775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1001" y="308" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610993799775" />
+    <state width="1877" height="212" key="GridCell.Tab.0.bottom" timestamp="1610996802811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="155" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.170.1440.860/-1080.-851.1080.1880@1920.170.1440.860" timestamp="1603909644705" />
+    <state width="1877" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610996802811" />
+    <state width="1877" height="212" key="GridCell.Tab.0.center" timestamp="1610996802811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="155" key="GridCell.Tab.0.center/0.0.1920.1040/1920.170.1440.860/-1080.-851.1080.1880@1920.170.1440.860" timestamp="1603909644705" />
+    <state width="1877" height="212" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610996802811" />
+    <state width="1877" height="212" key="GridCell.Tab.0.left" timestamp="1610996802811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="155" key="GridCell.Tab.0.left/0.0.1920.1040/1920.170.1440.860/-1080.-851.1080.1880@1920.170.1440.860" timestamp="1603909644705" />
+    <state width="1877" height="212" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610996802811" />
+    <state width="1877" height="212" key="GridCell.Tab.0.right" timestamp="1610996802811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="155" key="GridCell.Tab.0.right/0.0.1920.1040/1920.170.1440.860/-1080.-851.1080.1880@1920.170.1440.860" timestamp="1603909644705" />
+    <state width="1877" height="212" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610996802811" />
+    <state width="1877" height="297" key="GridCell.Tab.1.bottom" timestamp="1608625911361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608625911361" />
+    <state width="1877" height="297" key="GridCell.Tab.1.center" timestamp="1608625911361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="297" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608625911361" />
+    <state width="1877" height="297" key="GridCell.Tab.1.left" timestamp="1608625911361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="297" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608625911361" />
+    <state width="1877" height="297" key="GridCell.Tab.1.right" timestamp="1608625911361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="297" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608625911361" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1606075315129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1606075315129" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1610993721062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610993721062" />
+    <state x="821" y="221" width="969" height="710" key="SettingsEditor" timestamp="1610979182656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2100" y="178" key="SettingsEditor/0.0.1920.1040/1920.170.1440.860/-1080.-851.1080.1880@1920.170.1440.860" timestamp="1603910120810" />
+    <state x="821" y="221" width="969" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610979182656" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1608569505742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1608569505742" />
+    <state x="846" y="407" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1608578303057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="846" y="407" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1608578303057" />
+    <state x="831" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604631169497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="369" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.170.1440.860/-1080.-851.1080.1880@1920.170.1440.860" timestamp="1603902001604" />
+    <state x="831" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604631169497" />
+    <state x="1113" y="287" width="688" height="534" key="find.popup" timestamp="1610982326632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1113" y="287" width="688" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610982326632" />
+    <state x="765" y="328" key="scopes" timestamp="1610993345169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="328" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1610993345169" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/server/PersistDBThread.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/server/PersistDBThread.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/server/PersistDBThread.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Game_03$GameItemTest_doesItCollide.ic" NAME="GameItemTest.doesItCollide Coverage Results" MODIFIED="1603901608320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.lwjglb.engine.items.*</FILTER>
+    </SUITE>
+  </component>
+</project>
